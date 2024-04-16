@@ -1,0 +1,27 @@
+C:\Users\JG\Desktop\mod\mod\bin\Debug\netcoreapp3.1\mod.exe
+C:\Users\JG\Desktop\mod\mod\bin\Debug\netcoreapp3.1\mod.deps.json
+C:\Users\JG\Desktop\mod\mod\bin\Debug\netcoreapp3.1\mod.runtimeconfig.json
+C:\Users\JG\Desktop\mod\mod\bin\Debug\netcoreapp3.1\mod.runtimeconfig.dev.json
+C:\Users\JG\Desktop\mod\mod\bin\Debug\netcoreapp3.1\mod.dll
+C:\Users\JG\Desktop\mod\mod\bin\Debug\netcoreapp3.1\mod.pdb
+C:\Users\JG\Desktop\mod\mod\obj\Debug\netcoreapp3.1\mod.csprojAssemblyReference.cache
+C:\Users\JG\Desktop\mod\mod\obj\Debug\netcoreapp3.1\mod.AssemblyInfoInputs.cache
+C:\Users\JG\Desktop\mod\mod\obj\Debug\netcoreapp3.1\mod.AssemblyInfo.cs
+C:\Users\JG\Desktop\mod\mod\obj\Debug\netcoreapp3.1\mod.csproj.CoreCompileInputs.cache
+C:\Users\JG\Desktop\mod\mod\obj\Debug\netcoreapp3.1\mod.dll
+C:\Users\JG\Desktop\mod\mod\obj\Debug\netcoreapp3.1\mod.pdb
+C:\Users\JG\Desktop\mod\mod\obj\Debug\netcoreapp3.1\mod.genruntimeconfig.cache
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\bin\Debug\netcoreapp3.1\mod.exe
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\bin\Debug\netcoreapp3.1\mod.deps.json
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\bin\Debug\netcoreapp3.1\mod.runtimeconfig.json
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\bin\Debug\netcoreapp3.1\mod.runtimeconfig.dev.json
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\bin\Debug\netcoreapp3.1\mod.dll
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\bin\Debug\netcoreapp3.1\mod.pdb
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.csproj.AssemblyReference.cache
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.AssemblyInfoInputs.cache
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.AssemblyInfo.cs
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.csproj.CoreCompileInputs.cache
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.dll
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.pdb
+E:\BackUp Strix\all\Proyectos\Koke Original\mod\mod\obj\Debug\netcoreapp3.1\mod.genruntimeconfig.cache
